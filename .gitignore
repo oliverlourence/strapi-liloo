@@ -76,6 +76,7 @@ $RECYCLE.BIN/
 # Misc.
 ############################
 
+.docs/
 *#
 ssl
 .idea
