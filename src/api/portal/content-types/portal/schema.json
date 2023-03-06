@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "portals",
+  "info": {
+    "singularName": "portal",
+    "pluralName": "portals",
+    "displayName": "portal",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "status": {
+      "type": "boolean"
+    },
+    "email": {
+      "type": "email"
+    },
+    "password": {
+      "type": "password"
+    }
+  }
+}
